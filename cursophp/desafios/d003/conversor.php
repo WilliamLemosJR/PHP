@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <h1>cotação</h1>
+        <h1>Conversor de moedas</h1>
 
         <?php 
             $cotacao =5.01;
